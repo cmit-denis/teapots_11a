@@ -18,6 +18,6 @@ int main(){
         cout << "ERROR";
         break;
     }
-    getchar();
+    cin >> a;
     return 0;
 }
